@@ -1,8 +1,8 @@
 <?php
-mysql://b492b0521d91eb:7eabab48@us-cdbr-east-02.cleardb.com/heroku_d716fbc446cad1c?reconnect=true
-  $host = 'localhost';
-  $user = 'root';
-  $password = '';
+
+  $host = 'us-cdbr-east-02.cleardb.com';
+  $user = 'bf973a8d004fdb';
+  $password = 'dd974621';
   $dbname = 'login-project';
 
   //set DSN -  Database Source Name
